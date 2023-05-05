@@ -1,0 +1,22 @@
+#title{
+    background-color: blue;
+}
+#highlight{
+    font-size: xxx-large;
+    color: rgb(233, 10, 10);
+}
+#bigPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+html{
+    background: #D0E4F5 url("USAflagBackground.gif") repeat scroll 50% 50%;
+}
+#list{
+    color: rgb(236, 248, 11);
+}
+#attributes{
+    background-color: blue;
+}
